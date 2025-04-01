@@ -14,4 +14,6 @@
 </p>
 <br>
 <h2> :fire: Veja como ficou</h2>
-<img src="https://github.com/KelberSS/SorteadorDeN-meros/blob/master/Imagens/1.png?raw=true" alt"interface do projeto SorteadorDeNumeros">
+<img src="https://github.com/KelberSS/SorteadorDeN-meros/blob/master/Imagens/1.png?raw=true" alt"1ª_interface do projeto SorteadorDeNumeros">
+<img src= "https://github.com/KelberSS/SorteadorDeN-meros/blob/master/Imagens/2.png?raw=true" alt"2ª_interface do projeto SorteadorDeNumeros">
+<img src= ""3ª_interface do projeto SorteadorDeNumeros">
