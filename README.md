@@ -4,7 +4,7 @@
 <h3>Tecnologias utilizadas:</h3>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo HTML" >
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo CSS">
-
+-JAVASCRIPT
 <h4> :pencil: Informações do projeto:</h4>
 <p>
 :pushpin: <i>Esse projeto foi feito como um desafio, onde tive que aplicar meu conhecimento aprendido no DevClub e fazer um sorteador de números, usando programação com html, CSS e JavaScript.</i>
