@@ -14,4 +14,4 @@
 </p>
 <br>
 <h2> :fire: Veja como ficou</h2>
-<img src="https://github.com/KelberSS/Projeto-de-Estudo-WCL/blob/master/Interface/Wide%20Cover%20Location.jpg?raw=true" alt"interface do projeto WCL">
+<img src="https://github.com/KelberSS/SorteadorDeN-meros/blob/master/Imagens/1.png?raw=true" alt"interface do projeto SorteadorDeNumeros">
