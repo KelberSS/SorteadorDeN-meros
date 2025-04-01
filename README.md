@@ -1,4 +1,4 @@
-<h1> Sorteador de Números :star2: </h1>
+<h1> Sorteador de Números :grin: </h1>
 <br> 
 <h2> Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h2>
 <h3>Tecnologias utilizadas:</h3>
@@ -16,4 +16,4 @@
 <h2> :fire: Veja como ficou</h2>
 <img src="https://github.com/KelberSS/SorteadorDeN-meros/blob/master/Imagens/1.png?raw=true" alt"1ª_interface do projeto SorteadorDeNumeros">
 <img src= "https://github.com/KelberSS/SorteadorDeN-meros/blob/master/Imagens/2.png?raw=true" alt"2ª_interface do projeto SorteadorDeNumeros">
-<img src= ""3ª_interface do projeto SorteadorDeNumeros">
+<img src= "https://github.com/KelberSS/SorteadorDeN-meros/blob/master/Imagens/3.png?raw=true"3ª_interface do projeto SorteadorDeNumeros">
